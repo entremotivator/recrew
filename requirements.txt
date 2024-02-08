@@ -1,4 +1,3 @@
-Streamlit
 Requests
 BeautifulSoup4
 crewai
