@@ -1,0 +1,6 @@
+Streamlit
+Requests
+BeautifulSoup4
+crewai
+langchain-community
+langchain
